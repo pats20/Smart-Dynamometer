@@ -1,16 +1,6 @@
 # Smart-Dynamometer
 Modeling and Characterization of RC-scale Smart Dynamometer for Electric Vehicle Testing
 
-# Final Project - Titanic: Machine Learning from Disaster
-### Kaggle Competition Link: https://www.kaggle.com/c/titanic
-### Link data set: https://www.kaggle.com/c/titanic/data
-
-### Team Members
-* Divjyot Khanuja
-* Neha Parakh
-* Sunil Kumar Mummadi
-* Yugeshwari Brahmankar
-* Vinit Kumar Singh
 
 ## Goal
 Goal is to predict if a passenger survived the sinking of the Titanic or not. For each in the test set, you must predict a 0 or 1 value for the variable.
