@@ -42,7 +42,7 @@ PassengerId,Survived
 
 ### Results and Conclusion
 
-
+#### Voltage Graph
 ![alt text](https://github.com/pats20/Smart-Dynamometer/blob/master/Results/voltage%20with%20AD%20and%20RG.JPG)
 
 
