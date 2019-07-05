@@ -1,13 +1,11 @@
 # Smart-Dynamometer
 Modeling and Characterization of RC-scale Smart Dynamometer for Electric Vehicle Testing
 
-
 ## Project Description
-Goal is to predict if a passenger survived the sinking of the Titanic or not. For each in the test set, you must predict a 0 or 1 value for the variable.
-
-## Methodology
-Find the accuracy scores of the models used.
-
+•	Developed a model for dynamometer and motor and characterized the motor using a DC motor model
+•	Developed a speed measurement system using magnetic hall-effect sensor
+•	Designed a PID controller for drive cycle tracking using Arduino microcontroller 
+•	Developed a dynamic state-space model for the combined EV-dyno system for the cross-validation of the experimental test bench
 
 ### Results and Conclusion
 
