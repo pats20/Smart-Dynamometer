@@ -9,7 +9,7 @@ Modeling and Characterization of RC-scale Smart Dynamometer for Electric Vehicle
 
 ### Results and Conclusion
 
-#### Voltage Graph
+#### Voltage Graph (without AD and RG)
 ![alt text](https://github.com/pats20/Smart-Dynamometer/blob/master/Results/voltage%20with%20AD%20and%20RG.JPG)
 
 
