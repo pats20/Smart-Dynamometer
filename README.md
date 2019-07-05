@@ -7,8 +7,6 @@ Developed a speed measurement system using magnetic hall-effect sensor<br/>
 Designed a PID controller for drive cycle tracking using Arduino microcontroller<br/>
 Developed a dynamic state-space model for the combined EV-dyno system for the cross-validation of the experimental test bench<br/>
 
-1. First ordered list item
-2. Another item
 
 ### Results and Conclusion
 
