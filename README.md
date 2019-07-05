@@ -2,10 +2,10 @@
 Modeling and Characterization of RC-scale Smart Dynamometer for Electric Vehicle Testing
 
 ## Project Description
-Developed a model for dynamometer and motor and characterized the motor using a DC motor model<br/>
-Developed a speed measurement system using magnetic hall-effect sensor
-Designed a PID controller for drive cycle tracking using Arduino microcontroller 
-Developed a dynamic state-space model for the combined EV-dyno system for the cross-validation of the experimental test bench
+	Developed a model for dynamometer and motor and characterized the motor using a DC motor model<br/>
+	Developed a speed measurement system using magnetic hall-effect sensor<br/>
+	Designed a PID controller for drive cycle tracking using Arduino microcontroller<br/>
+	Developed a dynamic state-space model for the combined EV-dyno system for the cross-validation of the experimental test bench<br/>
 
 ### Results and Conclusion
 
